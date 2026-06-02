@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "A second-order conditional singular series for twin-prime gaps on the 6N skeleton: the spatial-compression penalty and a two-centre residual (Part IV)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-01"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-twin-prime-second-order-residual"
+keywords:
+  - twin primes
+  - prime gaps
+  - Hardy-Littlewood singular series
+  - conditional singular series
+  - spatial compression penalty
+  - experimental mathematics
+references:
+  - type: software
+    title: "6N twin-prime conditional density (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+    year: 2026
+  - type: software
+    title: "6N twin-prime gap omega-dependence (Part II)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20477664
+    year: 2026
+  - type: software
+    title: "6N twin-prime first-order conditional singular series (Part III)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20498668
+    year: 2026
